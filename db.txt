@@ -1,0 +1,3 @@
+Hambuergesa,Almuerzo,17/4/2024 00:00:00,2000
+shawarma,Merienda,18/4/2024 00:00:00,2342
+papa fritas,Media Mañana,24/4/2024 00:00:00,12312

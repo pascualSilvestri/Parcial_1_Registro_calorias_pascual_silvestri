@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pascual\\OneDrive\\Escritorio\\TP4\\Parcial_1_Registro_calorias_pascual_silvestri\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4254F2-312B-4CBD-B634-2690DEB21873}|Parcial_1_Registro_calorias_pascual_silvestri.csproj|c:\\users\\pascual\\onedrive\\escritorio\\tp4\\parcial_1_registro_calorias_pascual_silvestri\\txtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4254F2-312B-4CBD-B634-2690DEB21873}|Parcial_1_Registro_calorias_pascual_silvestri.csproj|solutionrelative:txtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4254F2-312B-4CBD-B634-2690DEB21873}|Parcial_1_Registro_calorias_pascual_silvestri.csproj|c:\\users\\pascual\\onedrive\\escritorio\\tp4\\parcial_1_registro_calorias_pascual_silvestri\\agregarcalorias.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4254F2-312B-4CBD-B634-2690DEB21873}|Parcial_1_Registro_calorias_pascual_silvestri.csproj|solutionrelative:agregarcalorias.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4254F2-312B-4CBD-B634-2690DEB21873}|Parcial_1_Registro_calorias_pascual_silvestri.csproj|c:\\users\\pascual\\onedrive\\escritorio\\tp4\\parcial_1_registro_calorias_pascual_silvestri\\index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2B4254F2-312B-4CBD-B634-2690DEB21873}|Parcial_1_Registro_calorias_pascual_silvestri.csproj|solutionrelative:index.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4254F2-312B-4CBD-B634-2690DEB21873}|Parcial_1_Registro_calorias_pascual_silvestri.csproj|c:\\users\\pascual\\onedrive\\escritorio\\tp4\\parcial_1_registro_calorias_pascual_silvestri\\registroscalorias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2B4254F2-312B-4CBD-B634-2690DEB21873}|Parcial_1_Registro_calorias_pascual_silvestri.csproj|solutionrelative:registroscalorias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4254F2-312B-4CBD-B634-2690DEB21873}|Parcial_1_Registro_calorias_pascual_silvestri.csproj|c:\\users\\pascual\\onedrive\\escritorio\\tp4\\parcial_1_registro_calorias_pascual_silvestri\\agregarcalorias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2B4254F2-312B-4CBD-B634-2690DEB21873}|Parcial_1_Registro_calorias_pascual_silvestri.csproj|solutionrelative:agregarcalorias.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4254F2-312B-4CBD-B634-2690DEB21873}|Parcial_1_Registro_calorias_pascual_silvestri.csproj|c:\\users\\pascual\\onedrive\\escritorio\\tp4\\parcial_1_registro_calorias_pascual_silvestri\\registroscalorias.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4254F2-312B-4CBD-B634-2690DEB21873}|Parcial_1_Registro_calorias_pascual_silvestri.csproj|solutionrelative:registroscalorias.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4254F2-312B-4CBD-B634-2690DEB21873}|Parcial_1_Registro_calorias_pascual_silvestri.csproj|c:\\users\\pascual\\onedrive\\escritorio\\tp4\\parcial_1_registro_calorias_pascual_silvestri\\stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2B4254F2-312B-4CBD-B634-2690DEB21873}|Parcial_1_Registro_calorias_pascual_silvestri.csproj|solutionrelative:stylesheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B4254F2-312B-4CBD-B634-2690DEB21873}|Parcial_1_Registro_calorias_pascual_silvestri.csproj|c:\\users\\pascual\\onedrive\\escritorio\\tp4\\parcial_1_registro_calorias_pascual_silvestri\\registroscalorias.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B4254F2-312B-4CBD-B634-2690DEB21873}|Parcial_1_Registro_calorias_pascual_silvestri.csproj|solutionrelative:registroscalorias.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrosCalorias.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pascual\\OneDrive\\Escritorio\\TP4\\Parcial_1_Registro_calorias_pascual_silvestri\\RegistrosCalorias.aspx.cs",
+              "RelativeDocumentMoniker": "RegistrosCalorias.aspx.cs",
+              "ToolTip": "C:\\Users\\pascual\\OneDrive\\Escritorio\\TP4\\Parcial_1_Registro_calorias_pascual_silvestri\\RegistrosCalorias.aspx.cs",
+              "RelativeToolTip": "RegistrosCalorias.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:44:42.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrosCalorias.aspx",
+              "DocumentMoniker": "C:\\Users\\pascual\\OneDrive\\Escritorio\\TP4\\Parcial_1_Registro_calorias_pascual_silvestri\\RegistrosCalorias.aspx",
+              "RelativeDocumentMoniker": "RegistrosCalorias.aspx",
+              "ToolTip": "C:\\Users\\pascual\\OneDrive\\Escritorio\\TP4\\Parcial_1_Registro_calorias_pascual_silvestri\\RegistrosCalorias.aspx",
+              "RelativeToolTip": "RegistrosCalorias.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-14T19:38:29.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.aspx",
+              "DocumentMoniker": "C:\\Users\\pascual\\OneDrive\\Escritorio\\TP4\\Parcial_1_Registro_calorias_pascual_silvestri\\Index.aspx",
+              "RelativeDocumentMoniker": "Index.aspx",
+              "ToolTip": "C:\\Users\\pascual\\OneDrive\\Escritorio\\TP4\\Parcial_1_Registro_calorias_pascual_silvestri\\Index.aspx",
+              "RelativeToolTip": "Index.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-14T19:33:39.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AgregarCalorias.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\pascual\\OneDrive\\Escritorio\\TP4\\Parcial_1_Registro_calorias_pascual_silvestri\\AgregarCalorias.aspx.cs",
+              "RelativeDocumentMoniker": "AgregarCalorias.aspx.cs",
+              "ToolTip": "C:\\Users\\pascual\\OneDrive\\Escritorio\\TP4\\Parcial_1_Registro_calorias_pascual_silvestri\\AgregarCalorias.aspx.cs",
+              "RelativeToolTip": "AgregarCalorias.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T12:15:12.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "C:\\Users\\pascual\\OneDrive\\Escritorio\\TP4\\Parcial_1_Registro_calorias_pascual_silvestri\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "StyleSheet1.css",
+              "ToolTip": "C:\\Users\\pascual\\OneDrive\\Escritorio\\TP4\\Parcial_1_Registro_calorias_pascual_silvestri\\StyleSheet1.css",
+              "RelativeToolTip": "StyleSheet1.css",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAcwGgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-13T12:07:57.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgregarCalorias.aspx",
+              "DocumentMoniker": "C:\\Users\\pascual\\OneDrive\\Escritorio\\TP4\\Parcial_1_Registro_calorias_pascual_silvestri\\AgregarCalorias.aspx",
+              "RelativeDocumentMoniker": "AgregarCalorias.aspx",
+              "ToolTip": "C:\\Users\\pascual\\OneDrive\\Escritorio\\TP4\\Parcial_1_Registro_calorias_pascual_silvestri\\AgregarCalorias.aspx",
+              "RelativeToolTip": "AgregarCalorias.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-13T12:05:02.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TxtController.cs",
+              "DocumentMoniker": "C:\\Users\\pascual\\OneDrive\\Escritorio\\TP4\\Parcial_1_Registro_calorias_pascual_silvestri\\TxtController.cs",
+              "RelativeDocumentMoniker": "TxtController.cs",
+              "ToolTip": "C:\\Users\\pascual\\OneDrive\\Escritorio\\TP4\\Parcial_1_Registro_calorias_pascual_silvestri\\TxtController.cs",
+              "RelativeToolTip": "TxtController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:55:57.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistrosCalorias.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\pascual\\OneDrive\\Escritorio\\TP4\\Parcial_1_Registro_calorias_pascual_silvestri\\RegistrosCalorias.aspx.designer.cs",
+              "RelativeDocumentMoniker": "RegistrosCalorias.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\pascual\\OneDrive\\Escritorio\\TP4\\Parcial_1_Registro_calorias_pascual_silvestri\\RegistrosCalorias.aspx.designer.cs",
+              "RelativeToolTip": "RegistrosCalorias.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:44:53.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
